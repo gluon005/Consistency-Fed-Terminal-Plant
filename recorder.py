@@ -15,7 +15,7 @@ class Controller(FileSystemEventHandler):
             current_time = time.time()
             f.write(str(current_time))
 
-    def on_any_event(self,event):
+    def on_modified(self,event):
         self.track_time()
 
 
