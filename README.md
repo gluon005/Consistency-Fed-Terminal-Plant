@@ -17,6 +17,7 @@ The Consistency-Fed Terminal Plant is designed for developers. It lives in your 
 Edit the directory paths with your own directory where your programming projects are placed and where you want the **time_tracker.txt** to be saved.
 Use Task scheduler (if you are in Windows) to make the **recorder.py** run in background after starting. For Linux and MacOS investigate how you can automatically run a python script in background.
 For hooking the **plant_logic.py** into Powershell, Open Powershell and write **notepad $PROFILE** and then in the .txt file write the execution command of the python file.. **python {directory of plant_logic.py}\plant_logic.py**
+
 And its Good to go.
 
 Thank You and Happy Programming
