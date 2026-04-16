@@ -1,8 +1,11 @@
 # Consistency-Fed-Terminal-Plant
 A funny command line interface programming companion that feeds on user's productivity and dies from user's inconsistency
 The Consistency-Fed Terminal Plant is designed for developers. It lives in your shell and survives entirely on your IDE activity.
+
 **Thriving** :- If you have saved code within 2 hours of your current time, the plant is active.
+
 **Wilting** :- If you haven't coded in a few hours, it starts to droop and nag you to code as you open your terminal.
+
 **Dead** :- After 24 hours inactivity, it dies and guilt trip you.
 
 ## Working
